@@ -3,7 +3,7 @@ It is a front-end website
 
 Technology Stack
 
--> HTML
+-> HTML v5
 
--> CSS
+-> CSS v3
 
